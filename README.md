@@ -18,18 +18,12 @@ We generally follow a two-strike policy for our rules. If you notice someone bre
 
 Possible actions we take include:
 
-• A public verbal warning
-
-• A formal bot warning
-
-• A short temporary mute
-
-• A long temporary mute
-
-• A kick from the server
-
-• A temporary ban from the server
-
-• A permanent ban from the server
+- A public verbal warning
+- A formal bot warning
+- A short temporary mute
+- A long temporary mute
+- A kick from the server
+- A temporary ban from the server
+- A permanent ban from the server
 
 While serious infractions are discussed internally before a punishment is given, simpler infractions are dealt with by individual staff members and the punishment they hand out is left to their own discretion.
